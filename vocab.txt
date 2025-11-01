@@ -1,0 +1,2 @@
+# validated words will be stored here
+I heard: hi

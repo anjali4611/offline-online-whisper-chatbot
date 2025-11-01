@@ -1,0 +1,8 @@
+flask
+pyttsx3
+sounddevice
+numpy
+whisper
+ffmpeg-python
+openai
+sqlite-utils
